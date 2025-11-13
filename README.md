@@ -23,7 +23,7 @@ O design será responsivo, garantindo que o site funcione bem em diferentes disp
 O foco será na organização do código, escalabilidade e implementação de boas práticas de segurança
 
 ## 🔗 Link do Repositório
-https://github.com/Josousa20/Educaca-ofinanceira
+https://github.com/Josousa20/Educacao-financeira
 
 
 
