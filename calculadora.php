@@ -17,7 +17,7 @@ if ($_POST) {
         'poupanca' => $poupanca
     ];
 
-    // Salvar no banco
+    
     $stmt = $pdo->prepare("INSERT INTO calculadora (renda, necessidades, desejos, poupanca) VALUES (?, ?, ?, ?)");
     $stmt->execute([$renda, $necessidades, $desejos, $poupanca]);
 }
